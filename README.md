@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm [Herchilopes]
+# 👋 Hey there! I'm Herchilopes
 
 ## 💻 About Me
 
-- 🛠️ **Administrator** of the Minecraft server [skymlg.de]
+- 🛠️ **Administrator** of the Minecraft server skymlg.de
 - 🧑‍⚖️ **Moderator** on other Minecraft servers
 - 🔌 I **develop Minecraft plugins** (Spigot, Bungeecord, etc.)
 - 🌐 I **build websites**
@@ -20,7 +20,7 @@
 
 ## 📫 Contact
 
-- ✉️ Reach me on Discord: `@herchilope`
+- ✉️ Reach me on Discord: `@herchilopes`
 - 🌐 Website / Portfolio: *herchilopes.crd.co*
 
 ---
