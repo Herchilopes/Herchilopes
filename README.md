@@ -21,7 +21,7 @@
 ## 📫 Contact
 
 - ✉️ Reach me on Discord: `@herchilopes`
-- 🌐 Website / Portfolio: *herchilopes.crd.co*
+- 🌐 Website / Portfolio: [herchilopes.crd.co]
 
 ---
 
