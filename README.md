@@ -8,8 +8,6 @@
 ---
 
 ## 💻 Tech Stack
-
-* Beispiel:
     ```python
     print("Hallo Welt!")
     ```
