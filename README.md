@@ -7,7 +7,7 @@
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ```python
 
 class sectionName = "Programms"
