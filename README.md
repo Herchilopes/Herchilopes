@@ -10,7 +10,7 @@
 ## 💻 Tech Stack:
 ```python
 
-print("Hallo Welt!")
+class sectionName = "Programms"
 
 ```
 
