@@ -21,8 +21,9 @@ class sectionName = "Programms"
 class sectionName = "Languages"
 
 ```
+
 <p align="left">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/7693545402569424196" width="40" height="40" alt="Java Icon" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/3860841978460268580" width="40" height="40" alt="HTML Icon" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/2798919387831023067" width="40" height="40" alt="PHP Icon" />
- </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+</p>
