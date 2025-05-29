@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Herchilopes</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Program%20Member-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/PRO-purple?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/YZt2GxF.png" width="900" alt="Herchilopes Profile Picture" style="border-radius: 50px;" />
 </p>
 
@@ -48,7 +43,7 @@ class sectionName = "Databases & Storage"
 
 ---
 
-<h2 align="center">🌌 SkyMLG.de – Minecraft neu erleben!</h2>
+<h2 align="center">🌌 SkyMLG.de – A new Minecraft experience!</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-limegreen?style=for-the-badge" />
