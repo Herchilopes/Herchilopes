@@ -8,7 +8,7 @@
 ---
 
 ## 💻 Tech Stack
-```kotlin```
+``kotlin``
 val sectionName = "LIBRARIES/FRAMEWORKS"
 
 <p align="left">
