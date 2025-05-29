@@ -17,3 +17,16 @@ val sectionName = "LIBRARIES/FRAMEWORKS"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 </p>
+<h1 align="center">Hi there 👋, I'm David Niessen</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Program%20Member-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRO-purple?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+```kotlin
+val sectionName = "MAIN_LANGUAGES"
