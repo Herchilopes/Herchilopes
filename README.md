@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/XIXZklX.jpeg" width="150" alt="Herchilopes Profile Picture" />
+  <img src="https://i.imgur.com/XIXZklX.jpeg" width="500" alt="Herchilopes Profile Picture" />
 </p>
 
 ---
