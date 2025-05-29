@@ -56,16 +56,10 @@ class sectionName = "Databases & Storage"
   <img src="https://img.shields.io/badge/Server--IP-skymlg.de-55FFFF?style=for-the-badge" />
 </p>
 
-<img src="https://i.imgur.com/HRbNCgO.png" width="600" alt="SkyMLG Banner" />
+<h2 align="center"><img src="https://i.imgur.com/iC2aUR3.png" width="400" alt="SkyMLG Banner" />
 </p>
 
-### 🚀 Features in Planung:
-- 🌍 Custom Welten & Map-Designs
-- 🧱 Eigene Spielmodi & Minigames
-- 🛡️ Anti-Cheat & Fairplay-Systeme
-- 🔧 Selbst entwickelte Plugins (Java)
-- 🫂 Community-Driven Entwicklung
-
+### 
 ```java
 public class SkyMLG {
     public static void main(String[] args) {
