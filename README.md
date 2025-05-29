@@ -15,8 +15,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 </p>
-```html
-<!-- HTML Icons -->
-<p align="left">
-  <img src="...">
-</p>
+
+---
+
+### 🧠 Wichtig:
+
+- Jeder Block beginnt mit ` ```sprache` und endet mit ` ``` ` (ohne etwas dahinter).
+- Du kannst beliebig viele Blöcke untereinander haben.
+- Im Markdown (z. B. GitHub) und Discord funktionieren diese **gleich**.
+
+---
+
+### 🔸 Ergebnis auf GitHub:
+
+Die einzelnen Blöcke werden sauber getrennt dargestellt – ideal, wenn du z. B. erst HTML-Icons, dann Kotlin-Code und anschließend JSON-Daten zeigen willst.
+
+---
+
+Wenn du willst, kann ich dir auch ein fertiges Beispiel mit **drei gestylten Blöcken** einfügen, so wie du es brauchst. Sag einfach Bescheid!
