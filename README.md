@@ -7,7 +7,8 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
+*
     ```python
     print("Hallo Welt!")
     ```
