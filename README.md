@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Herchilopes</h1>
 
 <p align="center">
-  <img src="https://imgur.com/a/NAktAlp.png" width="150" alt="Herchilopes Profile Picture" />
+  <img src="https://i.imgur.com/NAktAlp.png" width="150" alt="Herchilopes Profile Picture" />
 </p>
 
 <p align="center">
