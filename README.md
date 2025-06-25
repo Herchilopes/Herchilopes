@@ -12,9 +12,9 @@
 ```kotlin
 object Herchilopes {
     val name = "Herchilopes"
-    val role = "Backend Developer & Tech Enthusiast"
+    val role = "Backend Developer"
     val location = "Germany"
-    val passions = listOf("Java", "Node.js", "Open Source", "Automation")
+    val passions = listOf("Java", "Node.js", "Open Source", "Minecraft Plugins")
 }
 ```
 ---
