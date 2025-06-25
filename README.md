@@ -51,18 +51,3 @@ object Herchilopes {
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herchilopes&theme=react-dark&custom_title=Contribution%20Graph" width="95%">
 </div>
-
----
-
-<details>
-  <summary>⚡ Interactive Fun</summary>
-  <br>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+%F0%9F%94%A5;Always+learning%2C+always+coding...&center=true">
-  </p>
-  <p align="center">
-    <img src="https://github.com/Herchilopes/Herchilopes/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
-  </p>
-</details>
-
----
