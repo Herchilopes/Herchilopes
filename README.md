@@ -41,9 +41,8 @@ object Herchilopes {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project-X](https://github.com/Herchilopes/project-x) | An innovative API platform for smart home integration | Java, Node.js, Postgres |
-| [MusicFlow](https://github.com/Herchilopes/musicflow) | Collaborative playlist generator using AI | Node.js, discord.js, Express |
-| [CloudDash](https://github.com/Herchilopes/clouddash) | DevOps dashboard for cloud resource management | Java, PHP, Docker |
+| [SkyMLG.de](https://skymlg.de) | An innovative Minecraft network for the best experience | Java |
+| [SkyAI](https://) | AI powered thumbnail generator | Node.js, html |
 
 ---
 
