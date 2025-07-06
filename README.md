@@ -11,8 +11,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
 ```kotlin
 object Herchilopes {
     val name = "Herchilopes"
@@ -23,30 +21,11 @@ object Herchilopes {
 ```
 ---
 
-## 🚀 Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,php,nodejs,discordjs,github,html" height="40"/>
 </div>
 
-<details>
-  <summary>🛠️ More Tools & Libraries</summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=gradle,maven,linux,cloudflare,git" height="32"/>
-</details>
-
 ---
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [SkyMLG.de](https://skymlg.de) | An innovative Minecraft network for the best experience | Java |
-| [SkyAI](https://) | AI powered thumbnail generator | Node.js, html |
-
----
-
-## 📈 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Herchilopes&show_icons=true&theme=radical&hide=contribs,prs" height="160">
