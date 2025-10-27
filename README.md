@@ -49,7 +49,7 @@ object Herchilopes {
 <h3 align="center">🎵 Vibes While Coding</h3>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Hrxch&cover_image=true&theme=novatorem&bar_color=6C63FF&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
 ---
