@@ -1,8 +1,8 @@
 <!-- Stylish & Animated GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+David+👋;Backend+Developer+%7C+Java+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=55FFFF&center=true&vCenter=true&width=500&lines=Java+Developer;Website+Developer;Discordbot+Developer" alt="Typing SVG" /> 
+</p>
 
 <p align="center">
   <a href="https://david.drr.ac/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -40,7 +40,6 @@ object Herchilopes {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Herchilopes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Herchilopes&theme=tokyonight&hide_border=true&border_radius=8" height="170" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herchilopes&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true" width="95%" />
 </div>
