@@ -19,7 +19,7 @@
 ```kotlin
 object Herchilopes {
     val name = "David (Herchilopes)"
-    val role = "Backend Developer"
+    val role = "Fullstack Developer"
     val location = "Germany"
     val passions = listOf("Java", "Node.js", "Open Source", "Minecraft Plugins", "Automation")
     val currentlyLearning = listOf("Spring Boot", "Docker", "TypeScript")
