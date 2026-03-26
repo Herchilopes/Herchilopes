@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://david.drr.ac/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://discord.gg/6jjjGXWr2X" target="_blank"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:mail@david.drr.ac" target="_blank"><img src="https://img.shields.io/badge/✉️_Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://david.drr.ac/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://discord.gg/6jjjGXWr2X" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:mail@david.drr.ac" target="_blank"><img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -25,33 +25,17 @@ object Herchilopes {
 }
 ```
 
----
-
-<h3 align="center">⚡ Tech Stack & Tools</h3>
+<h2 align="center">Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,php,html,css,discordjs,mysql,github,git,docker,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,nextjs,html,css,discordjs,mysql,github,git,docker,vscode" height="45" />
 </div>
 
----
-
-<h3 align="center">🔥 GitHub Highlights</h3>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herchilopes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herchilopes&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true" width="95%" />
 </div>
-
----
-
-<h3 align="center">🎵 Vibes While Coding</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
-
----
 
 <h3 align="center">🌐 Let's Connect</h3>
 
