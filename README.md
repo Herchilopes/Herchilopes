@@ -1,7 +1,7 @@
 <!-- Stylish & Animated GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=55FFFF&center=true&vCenter=true&width=500&lines=Java+Developer;Website+Developer;Discordbot+Developer" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=55FFFF&center=true&vCenter=true&width=500&lines=Web+Developer;Minecraft+Plugins;Discord+Bots" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
@@ -19,10 +19,9 @@
 ```kotlin
 object Herchilopes {
     val name = "David (Herchilopes)"
-    val role = "Fullstack Developer"
+    val role = "Minecraft/Web Developer"
     val location = "Germany"
-    val passions = listOf("Java", "Node.js", "Open Source", "Minecraft Plugins", "Automation")
-    val currentlyLearning = listOf("Spring Boot", "Docker", "TypeScript")
+    val languages = listOf("Java", "Next.js", "HTML", "TailwindCSS", "JavaScript")
 }
 ```
 
